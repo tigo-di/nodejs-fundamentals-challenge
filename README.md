@@ -2,7 +2,7 @@
 
 Repositório referente a desafio do Bootcamp GoStack da Rocketseat :rocket:
 
-Me fala lá no twitter [@tigo](https://twitter.com/tigo) se o meu método getBalance ficou estranho.
+Me fala lá no twitter [@tigo](https://twitter.com/tigo) se o meu método [getBalance](https://github.com/tigo-di/nodejs-fundamentals-challenge/blob/master/src/repositories/TransactionsRepository.ts) ficou estranho.
 
 Como referência, mantenho abaixo dessa linha o conteúdo do README.md original.
 
